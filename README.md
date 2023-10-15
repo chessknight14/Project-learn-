@@ -4,7 +4,7 @@ C++ text adventure: Registration, Calculator, and guessing game
 <h1> Project "learning" </h1>
 
 <h2> What is This </h2>
-<p> It's file from last year I kept up with while learning bits of C++ day by day, or week. Just 3 text adventures in one. </p>
+<p> It's file from last year I kept up with while learning bits of C++ day by day, or week. Just 3 text adventures in one. Unprofessional variable names and comments because I was just having fun. </p>
 
 <h2> Details </h2>
 <p> The beginning tells you what to press, and there's a calculator to do basic add, sub, multiply, or div with two numbers, or you can press X to add info.</p>
